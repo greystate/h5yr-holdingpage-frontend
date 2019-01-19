@@ -9,6 +9,23 @@
 	],
 "creatorBuild": "28905",
 "files": {
+	"/apple-touch-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 115648,
+		"oA": 0,
+		"oAP": "/build/apple-touch-icon-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/build",
+		"oF": 0
+		},
 	"/src/assets/icon-comment.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -108,6 +125,37 @@
 		"mS": 0,
 		"oA": 1,
 		"oAP": "/build/assets/all.css",
+		"oF": 0,
+		"oS": 0,
+		"rwU": 0,
+		"sI": 0,
+		"sU": 0
+		},
+	"/src/components/tweetcontent/_tweetcontent-owain.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "/build/_tweetcontent-owain.html",
+		"oF": 0
+		},
+	"/src/components/tweetcontent/_tweetcontent.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "/build/_tweetcontent.html",
+		"oF": 0
+		},
+	"/src/components/tweetcontent/tweetcontent.less": {
+		"aP": 1,
+		"bl": 1,
+		"eJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"mS": 0,
+		"oA": 1,
+		"oAP": "/build/assets/tweetcontent.css",
 		"oF": 0,
 		"oS": 0,
 		"rwU": 0,
@@ -363,8 +411,9 @@
 	"creationDate": 569597279.27714896,
 	"displayValue": "h5yr.Frontend",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-hart",
-	"iconImageWasSetByUser": 0
+	"iconImageName": "/apple-touch-icon-precomposed.png",
+	"iconImageWasSetByUser": 0,
+	"lastBuiltDate": 569597352.48612595
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
