@@ -16,7 +16,7 @@
 		"oAP": "/build/apple-touch-icon-precomposed.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -125,6 +125,54 @@
 		"mS": 0,
 		"oA": 1,
 		"oAP": "/build/assets/all.css",
+		"oF": 0,
+		"oS": 0,
+		"rwU": 0,
+		"sI": 0,
+		"sU": 0
+		},
+	"/src/components/tweetavatar/_tweetavatar.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "/build/_tweetavatar.html",
+		"oF": 0
+		},
+	"/src/components/tweetavatar/tweetavatar.less": {
+		"aP": 1,
+		"bl": 1,
+		"eJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"mS": 0,
+		"oA": 1,
+		"oAP": "/build/assets/tweetavatar.css",
+		"oF": 0,
+		"oS": 0,
+		"rwU": 0,
+		"sI": 0,
+		"sU": 0
+		},
+	"/src/components/tweetcard/_tweetcard.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "/build/_tweetcard.html",
+		"oF": 0
+		},
+	"/src/components/tweetcard/tweetcard.less": {
+		"aP": 1,
+		"bl": 1,
+		"eJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"mS": 0,
+		"oA": 1,
+		"oAP": "/build/assets/tweetcard.css",
 		"oF": 0,
 		"oS": 0,
 		"rwU": 0,
@@ -340,6 +388,17 @@
 		"sI": 0,
 		"sU": 0
 		},
+	"/src/previewmedia/avatarimage.jpg": {
+		"ft": 16384,
+		"iS": 3646,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/previewmedia/avatarimage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/vendor/componentize/componentize.coffee": {
 		"ft": 32,
 		"ma": 0,
@@ -413,7 +472,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "/apple-touch-icon-precomposed.png",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 569597352.48612595
+	"lastBuiltDate": 569600011.10851002
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
