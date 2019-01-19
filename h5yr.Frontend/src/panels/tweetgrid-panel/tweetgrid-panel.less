@@ -16,16 +16,13 @@
 
 .tweets {
 	> header {
-		
-		display: flex;
-		flex-direction: row;
-		flex-wrap: nowrap;
-		justify-content: space-between;
-		align-items: baseline;
-		
-		h2 em {
-			color: @h5yr_violet;
-			font-style: normal;
+		h2 {
+			margin: 0 0 0.5em;
+			
+			em {
+				color: @h5yr_violet;
+				font-style: normal;
+			}
 		}
 		
 		.counter {
@@ -43,6 +40,24 @@
 		padding: 60px 20px;
 		text-align: center;
 	}
+	
+	.compact-width({
+		> header {
+			margin: 50px 0 40px;
+		}
+	});
+	
+	.regular-width({
+		> header {
+			margin: 60px 0 30px;
+			display: flex;
+			flex-direction: row;
+			flex-wrap: nowrap;
+			justify-content: space-between;
+			align-items: baseline;
+		}
+	});
+	
 }
 
 // Grid layout, if supported
