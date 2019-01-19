@@ -155,6 +155,13 @@
 		"sI": 0,
 		"sU": 0
 		},
+	"/src/components/tweetcard/_tweetcard-image.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "/build/_tweetcard-image.html",
+		"oF": 0
+		},
 	"/src/components/tweetcard/_tweetcard.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -178,6 +185,13 @@
 		"rwU": 0,
 		"sI": 0,
 		"sU": 0
+		},
+	"/src/components/tweetcontent/_tweetcontent-matthew.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "/build/_tweetcontent-matthew.html",
+		"oF": 0
 		},
 	"/src/components/tweetcontent/_tweetcontent-owain.kit": {
 		"cB": 0,
@@ -204,6 +218,30 @@
 		"mS": 0,
 		"oA": 1,
 		"oAP": "/build/assets/tweetcontent.css",
+		"oF": 0,
+		"oS": 0,
+		"rwU": 0,
+		"sI": 0,
+		"sU": 0
+		},
+	"/src/components/tweetinfo/_tweetinfo.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "/build/_tweetinfo.html",
+		"oF": 0
+		},
+	"/src/components/tweetinfo/tweetinfo.less": {
+		"aP": 1,
+		"bl": 1,
+		"eJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"mS": 0,
+		"oA": 1,
+		"oAP": "/build/assets/tweetinfo.css",
 		"oF": 0,
 		"oS": 0,
 		"rwU": 0,
@@ -399,6 +437,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/src/previewmedia/Dw3wPGoWoAA_nRZ.jpg": {
+		"ft": 16384,
+		"iS": 109785,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/previewmedia/Dw3wPGoWoAA_nRZ.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/vendor/componentize/componentize.coffee": {
 		"ft": 32,
 		"ma": 0,
@@ -472,7 +521,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "/apple-touch-icon-precomposed.png",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 569600011.10851002
+	"lastBuiltDate": 569603753.005005
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
