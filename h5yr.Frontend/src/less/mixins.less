@@ -1,0 +1,12 @@
+// Output font-size in px & rem units
+.font-size(@size) {
+	font-size: (@size * 1px);
+	font-size: (@size * 0.1rem);
+}
+
+// Set font-size and line-height (output line-height as unitless)
+.font-size(@size, @lineHeight) {
+	.font-size(@size);
+	line-height: (@lineHeight / @size);
+}
+
