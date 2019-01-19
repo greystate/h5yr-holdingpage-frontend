@@ -6,6 +6,10 @@ Sourcecode repo for the initial holding page of the [H5YR](https://h5yr.com) pro
 
 ## Components
 
+### `LinkButton`
+
+Significant link styled as a button.
+
 ### `TweetActions`
 
 The action icons at the bottom of the tweet "card" for liking/retweeting etc.
@@ -28,6 +32,9 @@ The Tweeter's name & handle + the timestamp of the tweet (relative time since tw
 
 ## Panels
 
+### `TweetGrid Panel`
+
+The grid of tweets that's the main content of the page.
 
 ## Layouts
 
