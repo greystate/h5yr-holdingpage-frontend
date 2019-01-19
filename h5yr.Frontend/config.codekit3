@@ -313,6 +313,13 @@
 		"oAP": "/build/components.html",
 		"oF": 0
 		},
+	"/src/kit/frontpage.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "/build/frontpage.html",
+		"oF": 0
+		},
 	"/src/kit/index.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -359,6 +366,23 @@
 		"mS": 0,
 		"oA": 1,
 		"oAP": "/build/assets/all.css",
+		"oF": 0,
+		"oS": 0,
+		"rwU": 0,
+		"sI": 0,
+		"sU": 0
+		},
+	"/src/layouts/default.less": {
+		"aP": 1,
+		"bl": 1,
+		"eJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"mS": 0,
+		"oA": 1,
+		"oAP": "/build/assets/default.css",
 		"oF": 0,
 		"oS": 0,
 		"rwU": 0,
