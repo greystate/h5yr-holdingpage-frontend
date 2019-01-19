@@ -1,0 +1,38 @@
+.tweetactions {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: center;
+	
+	li + li { margin-left: 14px; }
+	
+	a {
+		&::before {
+			content: "";
+			display: block;
+			width: 30px;
+			height: 30px;
+			background: url(icon-mail.svg) center no-repeat;
+		}
+	}
+	
+	// TODO: Change selectors?
+	a[href*="reply"]::before {
+		background-image: url(icon-comment.svg);
+	}
+	a[href*="retweet"]::before {
+		background-image: url(icon-retweet.svg);
+	}
+	a[href*="like"]::before {
+		background-image: url(icon-heart.svg);
+	}
+	a[href*="mail"]::before {
+		background-image: url(icon-mail.svg);
+	}
+	
+}

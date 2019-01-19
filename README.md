@@ -6,6 +6,10 @@ Sourcecode repo for the initial holding page of the [H5YR](https://h5yr.com) pro
 
 ## Components
 
+### `TweetActions`
+
+The action icons at the bottom of the tweet "card" for liking/retweeting etc.
+
 ### `TweetAvatar`
 
 The tweeter's profile image
