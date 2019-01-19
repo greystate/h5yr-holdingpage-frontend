@@ -13,6 +13,38 @@
 	}	
 }
 
+
+.tweets {
+	> header {
+		
+		display: flex;
+		flex-direction: row;
+		flex-wrap: nowrap;
+		justify-content: space-between;
+		align-items: baseline;
+		
+		h2 em {
+			color: @h5yr_violet;
+			font-style: normal;
+		}
+		
+		.counter {
+			font-weight: 600;
+			.font-size(18);
+			
+			data {
+				color: @h5yr_violet;
+				font-weight: bold;
+			}
+		}
+	}
+	
+	.pagination {
+		padding: 60px 20px;
+		text-align: center;
+	}
+}
+
 // Grid layout, if supported
 @supports(display: grid) {
 
