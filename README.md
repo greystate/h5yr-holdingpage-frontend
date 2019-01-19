@@ -18,6 +18,10 @@ The actual tweet (text, media)
 
 A complete tweet with avatar, info, content and actions.
 
+### `TweetInfo`
+
+The Tweeter's name & handle + the timestamp of the tweet (relative time since tweeted, actually).
+
 ## Panels
 
 
