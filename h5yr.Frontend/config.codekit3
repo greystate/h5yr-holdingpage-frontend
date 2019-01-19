@@ -131,6 +131,30 @@
 		"sI": 0,
 		"sU": 0
 		},
+	"/src/components/linkbutton/_linkbutton.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "/build/_linkbutton.html",
+		"oF": 0
+		},
+	"/src/components/linkbutton/linkbutton.less": {
+		"aP": 1,
+		"bl": 1,
+		"eJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"mS": 0,
+		"oA": 1,
+		"oAP": "/build/assets/linkbutton.css",
+		"oF": 0,
+		"oS": 0,
+		"rwU": 0,
+		"sI": 0,
+		"sU": 0
+		},
 	"/src/components/tweetactions/_tweetactions.kit": {
 		"cB": 0,
 		"ft": 2048,
